@@ -11,7 +11,7 @@ import SwiftUI
 struct Swift_ConcurrencyApp: App {
     var body: some Scene {
         WindowGroup {
-            DoCacheTryThrowsBootcamp()
+            AsyncAwaitBootcamp()
         }
     }
 }
